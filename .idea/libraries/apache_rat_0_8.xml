@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="apache-rat-0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/apache-rat-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/JTattoo-1.6.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../MyProject/lib/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
